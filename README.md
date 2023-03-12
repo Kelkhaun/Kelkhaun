@@ -3,8 +3,14 @@
 	<h3>Unity Developer from Perm</h3>
 </div>
 
-<!--
-**Kelkhaun/Kelkhaun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="socials" align="center">
+	<a href="telegram-url">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+		<a href="telegram-url">
+		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+	</a>
+</div>
 
 Here are some ideas to get you started:
 
