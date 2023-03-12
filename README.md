@@ -15,11 +15,16 @@
 
 </div>
 
+
+---
+
 ### ℹ️ About Me :
 - 🌱 I’m currently learning **Unity, C#, GameDev**
 - 📝 I regularly write articles on [my telegram channel](https://t.me/+PQACmYKr1o8yY2Fi)
 - 📫 Reach me by [email](mailto:shilovshildri@gmail.com)
 - 🌍 I speak English, Russian.
+
+---
 
 
 ### Languages and tools
@@ -31,5 +36,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="angular" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>&nbsp;
 
-### 🔥 My Stats :
+---
+
+### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kelkhaun&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kelkhaun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
