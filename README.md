@@ -15,7 +15,7 @@
 
 </div>
 
-### About me
+### ℹ️ About Me :
 - 🌱 I’m currently learning **Unity, C#, GameDev**
 - 📝 I regularly write articles on [my telegram channel](https://t.me/+PQACmYKr1o8yY2Fi)
 - 📫 Reach me by [email](mailto:shilovshildri@gmail.com)
@@ -30,3 +30,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="angular" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="angular" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>&nbsp;
+
+### 🔥 My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kelkhaun&theme=dark)](https://git.io/streak-stats)
