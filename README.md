@@ -1,12 +1,7 @@
 <div id="header" align="center">
-	<h1>Hi there, I'm Ilya</h1>
+	<h1>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>. I'm Ilya</h1>
 	<h3>Game Developer</h3>
 </div>
-
-<h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 <div id="socials" align="center">
 	<a href="https://t.me/ilyashilov">
