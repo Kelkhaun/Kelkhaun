@@ -19,13 +19,12 @@
 ---
 
 ### ℹ️ About Me :
-- 🌱 I’m currently learning **Unity, C#, GameDev**
+- 🌱 I’m currently learning **C#, Unity, GameDev**
 - 📝 I regularly write articles on [my telegram channel](https://t.me/+PQACmYKr1o8yY2Fi)
 - 📫 Reach me by [email](mailto:shilovshildri@gmail.com)
 - 🌍 I speak English, Russian.
 
 ---
-
 
 ### Languages and tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" title="angular" width="40" height="40"/>&nbsp;
@@ -37,10 +36,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>&nbsp;
 
 ---
+### 🎮 Games I Worked On
+<a href="https://play.google.com/store/apps/details?id=org.Agava.EgyptBuild&hl=ru&gl=US">
+		<img src="https://img.shields.io/badge/Egypt Builder-red?style=for-the-badge&logo=google play&logoColor=white" alt="Egypt Builder"/>
+	</a>
+	<a href="https://play.google.com/store/apps/details?id=com.org.Agava.Theif">
+		<img src="https://img.shields.io/badge/Master thief-blue?style=for-the-badge&logo=google play&logoColor=white" alt="Master Thief"/>
+	</a>
+
+---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kelkhaun&theme=dark)](https://git.io/streak-stats)
-
-
-
-
