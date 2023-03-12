@@ -4,14 +4,13 @@
 </div>
 
 <div id="socials" align="center">
-	<a href="telegram-url">
+	<a href="[telegram-url](https://t.me/ilyashilov)">
 		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 	</a>
 		<a href="telegram-url">
-		<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+		<img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Telegram"/>
 	</a>
 </div>
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
