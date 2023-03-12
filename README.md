@@ -15,11 +15,10 @@
 
 </div>
 
-
 ---
 
 ### ℹ️ About Me :
-- 🌱 I am currently working in game development and studying **C#, Unity, GameDev**
+- 🌱 I work currentlyin game development and studying **C#, Unity, and everything related to GameDev**
 - 📑 Total work experience **is 3 years.** Experience in game development: **1 year.**
 - 📝 I regularly write articles on [my telegram channel](https://t.me/+PQACmYKr1o8yY2Fi)
 - 😲 For all the time that I have been working, I have bought $350 worth of assets in an [asset store.](https://assetstore.unity.com/)
