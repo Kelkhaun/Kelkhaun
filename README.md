@@ -22,7 +22,7 @@
 - 🌱 I’m currently learning **C#, Unity, GameDev**
 - 📝 I regularly write articles on [my telegram channel](https://t.me/+PQACmYKr1o8yY2Fi)
 - 📫 Reach me by [email](mailto:shilovshildri@gmail.com)
-- 🌍 I speak English, Russian.
+- 🌍 I speak English (B1), Russian.
 
 ---
 
@@ -34,6 +34,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="angular" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="angular" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40"/>&nbsp;
+
 
 ---
 ### 🎮 Games I Worked On
