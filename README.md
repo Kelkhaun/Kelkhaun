@@ -14,7 +14,7 @@
 
 ### About me
 - 🌱 I’m currently learning **Unity, C#, GameDev**
-- 📝 I regularly write articles on [My telegram channel](https://t.me/+PQACmYKr1o8yY2Fi)
+- 📝 I regularly write articles on [my telegram channel](https://t.me/+PQACmYKr1o8yY2Fi)
 - 📄 Know about my experiences [CV](cv-link)
-- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
-- 🌍 I speak English
+- 📫 Reach me by [email](mailto:shilovshildri@gmail.com)
+- 🌍 I speak English, Russian.
