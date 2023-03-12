@@ -20,6 +20,7 @@
 
 ### ℹ️ About Me :
 - 🌱 I’m currently learning **C#, Unity, GameDev**
+-  🌱 Total work experience: **one year**
 - 📝 I regularly write articles on [my telegram channel](https://t.me/+PQACmYKr1o8yY2Fi)
 - 📫 Reach me by [email](mailto:shilovshildri@gmail.com)
 - 🌍 I speak English (B1), Russian.
