@@ -43,9 +43,6 @@
 	<a href="https://play.google.com/store/apps/details?id=com.org.Agava.Theif">
 		<img src="https://img.shields.io/badge/Master thief-blue?style=for-the-badge&logo=google play&logoColor=white" alt="Master Thief"/>
 	</a>
-	<a href="https://www.crazygames.com/game/the-range-3d">
-		<img src="https://cdn-1.webcatalog.io/catalog/crazy-games/crazy-games-icon-filled-256.png?v=1675597663154" width="25" height="25" alt="The Range 3D"/>
-	</a>
 
 ---
 
