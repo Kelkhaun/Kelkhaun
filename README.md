@@ -43,8 +43,12 @@
 	<a href="https://play.google.com/store/apps/details?id=com.org.Agava.Theif">
 		<img src="https://img.shields.io/badge/Master thief-blue?style=for-the-badge&logo=google play&logoColor=white" alt="Master Thief"/>
 	</a>
+<a href="https://www.crazygames.com/game/the-range-3d">
+		<img src="https://img.shields.io/badge/Master thief-blue?style=for-the-badge&logo=google play&logoColor=white" alt="The Range 3D"/>
+	</a>
 
----
+ 
+--
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kelkhaun&theme=dark)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
