@@ -19,7 +19,7 @@
 
 ### ℹ️ About Me :
 - 🌱 I work in game development and i study **C#, Unity, and everything related to Game Developement"**
-- 📑 Total work experience **is 3 years.** Experience of game development: **1 year.**
+- 📑 Total work experience **is 3 years.** Experience of game development: **2 year.**
 - *️⃣ I regularly write articles on [my telegram channel](https://t.me/+PQACmYKr1o8yY2Fi)
 - 🌍 I speak English (B1), Russian.
 
