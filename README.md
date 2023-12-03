@@ -21,20 +21,6 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" title="angular" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40"/>&nbsp;
-
-
----
-### 🎮 Games I Worked On
-<a href="https://play.google.com/store/apps/details?id=org.Agava.EgyptBuild&hl=ru&gl=US">
-		<img src="https://img.shields.io/badge/Egypt Builder-red?style=for-the-badge&logo=google play&logoColor=white" alt="Egypt Builder"/>
-	</a>
-	<a href="https://play.google.com/store/apps/details?id=com.org.Agava.Theif">
-		<img src="https://img.shields.io/badge/Master thief-blue?style=for-the-badge&logo=google play&logoColor=white" alt="Master Thief"/>
-	</a>
-<a href="https://www.crazygames.com/game/the-range-3d">
-		<img src="https://img.shields.io/badge/The Range 3D-black?style=for-the-badge&logoColor=white" alt="The Range 3D"/>
-	</a>
-
  
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kelkhaun&theme=dark)](https://git.io/streak-stats)&nbsp;&nbsp;&nbsp;
